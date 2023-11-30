@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Papireddy E</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=papireddy903&label=Profile%20views&color=0e75b6&style=flat" alt="papireddy903" /> </p>
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Python, Machine Learning, DSA**
@@ -6,7 +7,6 @@
 - 📫 How to reach me **papireddyeppala903@gmail.com**
 
 - 📄 Know about my experiences [https://scarlet-mallorie-30.tiiny.site](https://scarlet-mallorie-30.tiiny.site)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=papireddy903&label=Profile%20views&color=0e75b6&style=flat" alt="papireddy903" /> </p>
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="papireddy903" /></a> </p>
 
