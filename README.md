@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="papireddy903" /></a> </p>
 
 
-- 💬 Ask me about **Python, Machine Learning, DSA**
+- 💬 Ask me about **Python, Django, DSA**
 
 - 📫 How to reach me **papireddyeppala903@gmail.com**
 
-- 📄 Know about my experiences [https://scarlet-mallorie-30.tiiny.site](https://scarlet-mallorie-30.tiiny.site)
+- 📄 My Resume (https://docs.google.com/document/d/1cfTdxN0W8heOzJ5pG5gPs9-DYSYI1I4Mf7uvW6QYEkw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
