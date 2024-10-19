@@ -10,6 +10,23 @@
 
 - 📄 My Resume (https://docs.google.com/document/d/1cfTdxN0W8heOzJ5pG5gPs9-DYSYI1I4Mf7uvW6QYEkw/edit?usp=sharing)
 
+<h3 align="left">Open Source Contributions</h3>
+<ul>
+  <li>
+    <strong>Python OCR Screenshot Tool</strong> – <a href="https://github.com/DhanushNehru/Python-Scripts">GitHub Repository</a>
+    <p>Developed a Python script to capture full-screen or region-specific screenshots and extract text using Optical Character Recognition (OCR). Added features include saving the extracted text to a file for automation or personal use. This tool is helpful for users needing to extract text from on-screen content.</p>
+  </li>
+  <li>
+    <strong>Signup Card UI Improvement</strong> – <a href="https://github.com/Anu27n/603work">GitHub Repository</a>
+    <p>Addressed user interface issues with the signup card by improving spacing and enhancing the close button for better usability. This update aligned the design with the login card, ensuring a consistent and visually appealing interface.</p>
+  </li>
+  <li>
+    <strong>Login and Signup Popup UI Enhancement</strong> – <a href="https://github.com/anuragverma108/WildGuard/">GitHub Repository</a>
+    <p>Improved the UI for both login and signup popup cards, ensuring a smoother user experience with refined layout adjustments and interactions.</p>
+  </li>
+</ul>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/papireddy eppala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="papireddy eppala" height="30" width="40" /></a>
