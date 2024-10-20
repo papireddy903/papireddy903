@@ -13,19 +13,19 @@
 <h3 align="left">Open Source Contributions</h3>
 <ul>
   <li>
-    <strong>Python OCR Screenshot Tool</strong> – <a href="https://github.com/DhanushNehru/Python-Scripts">GitHub Repository</a>
+    <strong>Python OCR Screenshot Tool</strong> – <a href="https://github.com/DhanushNehru/Python-Scripts">Repository</a>
     <p>Developed a Python script to capture full-screen or region-specific screenshots and extract text using Optical Character Recognition (OCR). Added features include saving the extracted text to a file for automation or personal use. This tool is helpful for users needing to extract text from on-screen content.</p>
   </li>
   <li>
-    <strong>Signup Card UI Improvement</strong> – <a href="https://github.com/Anu27n/603work">GitHub Repository</a>
+    <strong>Signup Card UI Improvement</strong> – <a href="https://github.com/Anu27n/603work">Repository</a>
     <p>Addressed user interface issues with the signup card by improving spacing and enhancing the close button for better usability. This update aligned the design with the login card, ensuring a consistent and visually appealing interface.</p>
   </li>
   <li>
-    <strong>Login and Signup Popup UI Enhancement</strong> – <a href="https://github.com/anuragverma108/WildGuard/">GitHub Repository</a>
+    <strong>Login and Signup Popup UI Enhancement</strong> – <a href="https://github.com/anuragverma108/WildGuard/">Repository</a>
     <p>Improved the UI for both login and signup popup cards, ensuring a smoother user experience with refined layout adjustments and interactions.</p>
   </li>
   <li>
-    <strong>Quote Like Functionality Implementation</strong> – <a href="https://github.com/Shariar-Hasan/QuoteVerse">GitHub Pull Request</a>
+    <strong>Quote Like Functionality Implementation</strong> – <a href="https://github.com/Shariar-Hasan/QuoteVerse">Repository</a>
     <p>Implemented the "Like" feature for quotes, allowing users to like/unlike quotes by clicking a heart icon. The like status is stored in localStorage, ensuring persistence across page refreshes. Properly handled toggling of the heart icon and clearing the quote from localStorage when unliked.</p>
   </li>
 </ul>
