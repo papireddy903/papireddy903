@@ -24,6 +24,10 @@
     <strong>Login and Signup Popup UI Enhancement</strong> – <a href="https://github.com/anuragverma108/WildGuard/">GitHub Repository</a>
     <p>Improved the UI for both login and signup popup cards, ensuring a smoother user experience with refined layout adjustments and interactions.</p>
   </li>
+  <li>
+    <strong>Quote Like Functionality Implementation</strong> – <a href="https://github.com/Shariar-Hasan/QuoteVerse">GitHub Pull Request</a>
+    <p>Implemented the "Like" feature for quotes, allowing users to like/unlike quotes by clicking a heart icon. The like status is stored in localStorage, ensuring persistence across page refreshes. Properly handled toggling of the heart icon and clearing the quote from localStorage when unliked.</p>
+  </li>
 </ul>
 
 
