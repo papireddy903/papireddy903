@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **papireddyeppala903@gmail.com**
 
-- 📄 My Resume (https://docs.google.com/document/d/1cfTdxN0W8heOzJ5pG5gPs9-DYSYI1I4Mf7uvW6QYEkw/edit?usp=sharing)
-
 <h3 align="left">Open Source Contributions (Hacktoberfest)</h3>
 <ul>
   <li>
